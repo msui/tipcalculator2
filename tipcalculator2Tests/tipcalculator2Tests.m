@@ -10,6 +10,7 @@
 
 @interface tipcalculator2Tests : XCTestCase
 
+
 @end
 
 @implementation tipcalculator2Tests
